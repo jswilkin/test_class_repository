@@ -1,4 +1,5 @@
 # test_class_repository
+![GitHub Repo stars](https://img.shields.io/github/stars/jswilkin/test_class_repository)
 
 Lab 10 in class project for showing cpp for integration with CLion
 
